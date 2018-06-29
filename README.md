@@ -1,4 +1,7 @@
 # Udacity Machine Learning Engineer Nanodegree
+
+*Artificial Neural Networks, TensorFlow, and Machine Learning Algorithms*
+
 ## Graduation Certificate
 
 This repository contains my [graduation certificate](https://github.com/jamesdellinger/machine_learning_nanodegree_graduation_certificate/blob/master/machine_learning_engineer_nanodegree_graduation_certificate_james_dellinger.pdf) for Udacity's Machine Learning Engineer Nanodegree.
