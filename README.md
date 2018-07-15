@@ -1,5 +1,5 @@
 # Udacity Machine Learning Engineer Nanodegree
-*Artificial Neural Networks, TensorFlow, and Machine Learning Algorithms*
+*Developing a mastery of deep reinforcement learning, neural networks, supervised and unsupervised machine learning algorithms, and tools like Keras, TensorFlow, and Pandas.*
 
 <img src="https://github.com/jamesdellinger/machine_learning_nanodegree_graduation_certificate/blob/master/mlndlogo.png" height="140">
 
@@ -16,7 +16,7 @@ This degree's [curriculum](https://github.com/jamesdellinger/machine_learning_na
 | Topic | Name | Project |
 |:-----:|------|---------|
 | 1.    | Specialization | [Solving the Kaggle Home Credit Default Risk Competition](https://github.com/jamesdellinger/machine_learning_nanodegree_capstone_project) |
-| 2.    | Deep Reinforcement Learning | [Build a Deep Reinforcement Learning Quadcopter Controller](https://github.com/jamesdellinger/machine_learning_nanodegree_Quadcopter_RL_project) |
+| 2.    | Deep Reinforcement Learning | [Building a Deep Reinforcement Learning Quadcopter Controller](https://github.com/jamesdellinger/machine_learning_nanodegree_Quadcopter_RL_project) |
 | 3. | Unsupervised Learning | [Creating Customer Segments](https://github.com/jamesdellinger/machine_learning_nanodegree_customer_segments_project) |
 | 4. | Deep Learning | [Convolutional Neural Network Classifier for dog breeds](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project) |
 | 5. | Supervised Learning | [Finding Charity Donors](https://github.com/jamesdellinger/machine_learning_nanodegree_finding_donors_project) |
