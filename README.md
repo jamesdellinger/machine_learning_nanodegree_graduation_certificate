@@ -21,4 +21,4 @@ This degree's [curriculum](https://github.com/jamesdellinger/machine_learning_na
 | 4. | Deep Learning | [Convolutional Neural Network Classifier for dog breeds](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project) |
 | 5. | Supervised Learning | [Finding Charity Donors](https://github.com/jamesdellinger/machine_learning_nanodegree_finding_donors_project) |
 | 6. | Model Evaluation and Validation | [Predicting Boston Housing Prices](https://github.com/jamesdellinger/machine_learning_nanodegree_boston_housing_project) |
-| 7. | Introduction and Foundations | [Titanic Survival Exploration](https://github.com/jamesdellinger/machine_learning_nanodegree_titanic_practice_project) |
+| 7. | Machine Learning Foundations | [Titanic Survival Exploration](https://github.com/jamesdellinger/machine_learning_nanodegree_titanic_practice_project) |
