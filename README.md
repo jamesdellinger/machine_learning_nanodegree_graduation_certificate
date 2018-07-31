@@ -1,5 +1,5 @@
 # Udacity Machine Learning Engineer Nanodegree
-*Developing a mastery of deep reinforcement learning, neural networks, supervised and unsupervised machine learning algorithms, and tools like Keras, TensorFlow, and Pandas.*
+*Developed a mastery of deep reinforcement learning, neural networks, supervised and unsupervised machine learning algorithms, and tools like Keras, TensorFlow, and Pandas.*
 
 <img src="https://github.com/jamesdellinger/machine_learning_nanodegree_graduation_certificate/blob/master/mlndlogo.png" height="140">
 
